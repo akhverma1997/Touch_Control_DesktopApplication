@@ -5,8 +5,8 @@ This is Java Swing Application which is used to connect the touch_control androi
 
 To run the following application -
 1) Put the Touch_Control_DesktopApplication folder at the Desktop.
-2) Compile the code using below format:
-  javac -cp "./Touch_Control_DesktopApplication/Server1/*.jar" Touch_Control_DesktopApplication/Server1/*.java Touch_Control_DesktopApplication/*.java
-3) Run the code sing below format:
-  java -cp "Touch_Control_DesktopApplication/Server1/*.jar;<Path to Desktop>" Touch_Control_DesktopApplication.Start
+2) Compile the code using below format:<br>
+  javac -cp "./Touch_Control_DesktopApplication/Server1/*.jar" Touch_Control_DesktopApplication/Server1/*.java Touch_Control_DesktopApplication/*.java<br>
+3) Run the code sing below format:<br>
+  java -cp "Touch_Control_DesktopApplication/Server1/*.jar;<Path to Desktop>" Touch_Control_DesktopApplication.Start<br>
 Eg : java -cp "Touch_Control_DesktopApplication/Server1/*.jar;C:\Users\AKHIL VERMA\Desktop" Touch_Control_DesktopApplication.Start
