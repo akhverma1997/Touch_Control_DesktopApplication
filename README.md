@@ -9,4 +9,4 @@ To run the following application -
   javac -cp "./Touch_Control_DesktopApplication/Server1/*.jar" Touch_Control_DesktopApplication/Server1/*.java Touch_Control_DesktopApplication/*.java
 3) Run the code sing below format:
   java -cp "Touch_Control_DesktopApplication/Server1/*.jar;<Path to Desktop>" Touch_Control_DesktopApplication.Start
-  Eg : java -cp "Touch_Control_DesktopApplication/Server1/*.jar;C:\Users\AKHIL VERMA\Desktop" Touch_Control_DesktopApplication.Start
+Eg : java -cp "Touch_Control_DesktopApplication/Server1/*.jar;C:\Users\AKHIL VERMA\Desktop" Touch_Control_DesktopApplication.Start
